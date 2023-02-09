@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470363472892",
+    "project_id": "notes-d31fa",
+    "storage_bucket": "notes-d31fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470363472892:android:2cc2fa0a1aed7c1f302879",
+        "android_client_info": {
+          "package_name": "com.imran.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470363472892-a50ipo0ta9bb09n8thff2usrtqaec10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDHCcenkOyQIHkQ8XGxn0a3WxSme7aIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470363472892-a50ipo0ta9bb09n8thff2usrtqaec10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
